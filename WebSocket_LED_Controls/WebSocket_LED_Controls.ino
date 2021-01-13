@@ -24,8 +24,9 @@
 /*
  * Abdulsalam Bdeir 
  * 1/5/21
- * This small project was conducted to learn how to create a WebSocket with an ESP8266
- * 
+ * This small project was conducted to learn how to create a WebSocket with an ESP8266 with the intention of being used as reference for later 
+ * in my project.
+ * Project Source: https://randomnerdtutorials.com/esp8266-nodemcu-websocket-server-arduino/ 
  * NOTE: Password has been replaced for security purposes with "removed" 
 */
 
