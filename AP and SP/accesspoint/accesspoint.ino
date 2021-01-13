@@ -8,7 +8,7 @@ void setup() {
   Serial.begin(9600);
   WiFi.mode(WIFI_AP);
   WiFi.softAP("SALAM_AP", "");
-  WiFi.softAPConfig(IP, IP,e mask);
+  WiFi.softAPConfig(IP, IP, mask);
   server.begin();//begin
   pinMode(ledPin, OUTPUT);
   Serial.println();
